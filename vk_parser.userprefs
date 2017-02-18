@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4D0B90C0-BC0F-4DBA-9DA5-89C4650D0CAA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="vk_parser/Program.cs">
+    <Files>
+      <File FileName="vk_parser/Program.cs" Line="7" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.vk__parser PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
